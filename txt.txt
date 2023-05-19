@@ -1,0 +1,10 @@
+1.pandas as pd
+2.matplotlib.pyplot as plt
+3.yfinance as yf
+4.plotly.express as px
+5.time
+6.datetime
+7.seaborn as sns
+8.streamlit as st
+9.prophet import Prophet
+10.pickle
