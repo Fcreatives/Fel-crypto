@@ -1,7 +1,7 @@
 pandas
 matplotlib
 yfinance 
-plotly.express 
+plotly
 time
 datetime
 seaborn 
